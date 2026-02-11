@@ -1,27 +1,9 @@
-nav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #5ef578;
+.home{
+  background: rgb(224, 251, 222);
+    background: linear-gradient(360deg, rgb(245, 255, 245) 0%, rgb(173, 252, 163) 100%);
+    padding: 10px 0 20px 0;
+    text-align: center;
 }
-
-nav li {
-  float: left;
-}
-
-nav li a {
-  display: block;
-  color: rgb(12, 5, 5);
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-nav li a:hover {
-  background-color: #e7e7e7;
-}
-
 .footer {
   position: fixed;
   left: 0;
