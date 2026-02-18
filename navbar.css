@@ -29,22 +29,3 @@
   border-bottom: 2px solid #1a1a2e;
   padding-bottom: 2px;
 }
-
-.nav-contact {
-  display: inline-block;
-  padding: 9px 22px;
-  background-color: #1a1a2e;
-  border: 2px solid #1a1a2e;
-  color: #ffffff;
-  text-decoration: none;
-  font-size: 0.8rem;
-  letter-spacing: 1px;
-  font-weight: 600;
-  text-transform: uppercase;
-  transition: background-color 0.3s, color 0.3s;
-}
-
-.nav-contact:hover {
-  background-color: #ffffff;
-  color: #1a1a2e;
-}
